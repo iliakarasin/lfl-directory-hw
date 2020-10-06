@@ -6,7 +6,7 @@ const $ = function (selector) {
       nodeList[i].innerText = content;
     }
   }
-  
+
   const html = function(content){
     for (let i = 0; i < nodeList.length; i++) {
       nodeList[i].innerHTML = content;
@@ -51,10 +51,10 @@ const $ = function (selector) {
 
   const val = function (content) {
       if(content === undefined){
-        return nodeList[0].value; 
+        return nodeList[0].value;
       } else {
         nodeList[0].value = content;
-      }     
+      }
   }
 
   const on = function (action, cb) {

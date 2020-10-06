@@ -7,7 +7,6 @@ Please fork this repository for your work.
 Feel free to reach out to with any questions or for clarification.
 
 ## Setup
-- Create an `app.js` file and include it in `index.html`
 - No dependencies needed
 - Task runners are okay
 - `SASS/SCSS` is okay, your choice
