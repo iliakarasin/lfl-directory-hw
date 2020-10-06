@@ -29,7 +29,7 @@ Feel free to reach out to with any questions or for clarification.
 
 #### An `Update` option that allows the user to input name, office number, and phone number -- updating only the office number and phone number upon a name match
 
-#### A `Delete` option that deletes the employee with the matching name nd then renders the updated employee list.
+#### A `Delete` option that deletes the employee with the matching name
 
 ## Bonus
 - Style all/any of the aforementioned interactions however you see fit, this is an opportunity to show off your creativity!
