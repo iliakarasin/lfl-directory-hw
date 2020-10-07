@@ -2,7 +2,7 @@
 
 For this assignment you will be building an online employee directory, using only vanilla JS (**no jQuery**).
 
-Please fork this repository for your work.
+Please fork this repository for your work, you should spend no more than 4-6h on this, please make sure to document your process in the `Dev Notes` section of this `README`
 
 Feel free to reach out to with any questions or for clarification.
 
@@ -33,5 +33,6 @@ Feel free to reach out to with any questions or for clarification.
 
 ## Bonus
 - Style all/any of the aforementioned interactions however you see fit, this is an opportunity to show off your creativity!
-- Documentation of your process
 - MVC JS architecture
+
+## Dev notes
